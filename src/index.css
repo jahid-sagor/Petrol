@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.scroll-to-top{
+    position: relative;
+    background-color: cornflowerblue !important;
+}
+.scroll-to-top svg{
+    position: absolute;
+    top: 6px;
+    left: 5px;
+    color: #ffff;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
