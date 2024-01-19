@@ -5,7 +5,7 @@
 
 .scroll-to-top{
     position: relative;
-    background-color: cornflowerblue !important;
+    background-color: #F40404 !important;
 }
 .scroll-to-top svg{
     position: absolute;
@@ -18,3 +18,24 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #fff;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }

@@ -10,7 +10,7 @@ const Service = () => {
     <section>
         <div id='service' className='flex flex-wrap'>
           <div className='w-full lg:w-1/2'>
-            <h2 className='text-[#000000] font-pop text-[24px] line-height-[24px] mt-[30px] mx-[100px] lg:text-[64px] lg:line-height-[96px] font-bold lg:mt-[150px] lg:mx-[150px]'>Our Services</h2>
+            <h2 className='text-[#000000] font-pop text-[24px] line-height-[24px] mt-[30px] mx-4 lg:text-[64px] lg:line-height-[96px] font-bold lg:mt-[150px] lg:mx-[150px]'>Our Services</h2>
             <h3 className='text-[#6C6C6C] font-pop text-[14px] line-height-[16px] mx-[20px] mt-2 lg:mt-0 lg:text-[16px] lg:line-height-[24px] font-medium lg:mx-[155px] lg:w-[400px]'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</h3>
           </div>
           <div style={{background:`URL(${Serviceimg1})`}} className='w-full  !bg-cover bg-center bg-no-repeat  py-[100px] lg:w-1/2 mt-8 lg:py-[165px] relative z-[1] after:absolute after:top-0 after:left-0 after:content-[""] after:h-full after:w-full after:bg-[rgba(0,0,0,0.5)] after:z-[-1]'>
